@@ -1,0 +1,15 @@
+{
+  "name": "firecouch",
+  "version": "0.1.0",
+  "description": "Simplified Couch DB NodeJS API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chwzr",
+  "license": "ISC",
+  "dependencies": {
+    "nano": "^8.2.2"
+  }
+}
