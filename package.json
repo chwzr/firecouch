@@ -1,6 +1,6 @@
 {
   "name": "firecouch",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Simplified Couch DB NodeJS API",
   "main": "index.js",
   "scripts": {
